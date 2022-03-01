@@ -6,9 +6,11 @@ header {
   text-align: center;
 }
 
-table, th, td {
+table,
+th,
+td {
   border: 1px solid orange;
-  background-color: red
+  background-color: red;
 }
 
 h2 {
